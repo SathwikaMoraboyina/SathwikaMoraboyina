@@ -1,0 +1,30 @@
+h1 {
+    border: 2px none;
+    text-align: center;
+    margin: 0px;
+    width: 95%;
+    padding: 50px;
+    font-family: "Brush Script MT", cursive; 
+    font-size: 70px;
+}
+h3 {
+    text-decoration: underline;
+  }
+
+body {
+    background-color: #FFE4E1;
+
+    background-size: cover; /* Optional: to cover the entire body */
+    background-repeat: no-repeat; /* Optional: to prevent repeating the image */
+    font-family:  Verdana, sans-serif;
+    font-size: 20px;
+    margin-top: 20px; /* Only move the body down by 20px */
+    }
+
+ul.a {
+    list-style-type: circle;
+}
+
+html {
+    font-family: "Arial", sans-serif;
+}
